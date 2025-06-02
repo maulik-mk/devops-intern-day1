@@ -19,3 +19,17 @@
   - Monitoring
   - Infrastructure as Code
   - Feedback Loops
+
+The parts like **automation**, **CI/CD**, **monitoring**, and **collaboration** are main part of modern DevOps in many Company.
+
+- Popular DevOps Tool
+   - GitHub
+   - GitLab
+   - Bitbucket
+   - Jenkins
+   - GitLab CI/CD
+   - Kubernetes
+   - Docker
+   - Prometheus
+   - Grafana
+   - Git
